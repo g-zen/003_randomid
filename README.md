@@ -2,7 +2,7 @@
 
 5桁のランダムなIDを生成します。
 
-https://guppytubasa.github.io/003_randomid/index.html
+https://g-zen.github.io/003_randomid/index.html
 
 ## 使い方
 
